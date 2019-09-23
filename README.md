@@ -18,7 +18,7 @@ The compiled images will be placed in the newly created _./targets_ folder in yo
 
 # How to embed files
 
-Create a **files** directory. Everything inside this directory will be placed in **/** in the image.
+Create a **files** directory. Everything inside this directory will be placed at **/** in the image.
 
 Inside this directory, place your custom openwrt files. For example your would create a _files/etc/config/wireless_ file in order to change the default wireless configuration.
 
